@@ -1,0 +1,115 @@
+GET http://localhost:8080/notes
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+"my first note!"
+
+<> 2018-12-10T055205.200.json
+
+###
+
+POST http://localhost:8080/notes
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+"my first note!"
+
+###
+
+GET http://localhost:8080/notes
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+"my first note!"
+
+<> 2018-12-10T055037.200.json
+
+###
+
+POST http://localhost:8080/notes
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+"my first note!"
+
+###
+
+POST http://localhost:8080/notes
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application-json
+
+"my first note!"
+
+###
+
+GET http://localhost:8080/notes
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application-json
+
+"my first note!"
+
+<> 2018-12-10T054847.200.json
+
+###
+
+POST http://localhost:8080/notes
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application-json
+
+"my first note!"
+
+###
+
+POST http://localhost:8080/notes
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application-json
+
+"my first note!"
+
+###
+
+GET http://localhost:8080/notes
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application-json
+
+"my first note!"
+
+<> 2018-12-10T054747.200.json
+
+###
+
+POST http://localhost:8080/notes
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application-json
+
+"my first note!"
+
+###
+
+POST http://localhost:8080/notes
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application-json
+
+"my first note!"
+
+###
+
+GET http://localhost:8080/notes
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-10T054637.200.json
+
+###
+
