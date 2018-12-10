@@ -1,0 +1,16 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: java-cycle-print
+spec:
+  selector:
+    matchLabels:
+      app: java-cycle-print
+  template:
+    metadata:
+      labels:
+        app: java-cycle-print
+    spec:
+      containers:
+        - name: java-cycle-print
+          image: simple-java-print
