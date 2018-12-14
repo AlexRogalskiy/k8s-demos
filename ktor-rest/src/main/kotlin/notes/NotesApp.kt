@@ -26,7 +26,13 @@ fun Application.module() {
             call.respond(notes)
         }
 
-        post("/notes") {
+        get("/note") {
+            call.parameters["id"]?.let {
+                call.respond(notes[it.toInt()])
+            }
+        }
+
+        post("/note") {
             notes.add(call.receive())
         }
     }
