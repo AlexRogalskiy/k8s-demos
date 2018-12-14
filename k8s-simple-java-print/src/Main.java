@@ -5,7 +5,7 @@ public class Main {
 
         while (true) {
             System.out.println("Hello from Java main()!");
-            System.out.println("this is a change! random number -> " + Math.round(Math.random()*20));
+            System.out.println("this is a change! random number -> " + Math.round(Math.random()*10));
             Thread.sleep(1000);
         }
     }

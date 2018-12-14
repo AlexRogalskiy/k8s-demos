@@ -5,6 +5,28 @@ Content-Type: application/json
 
 "my first note!"
 
+<> 2018-12-11T021822.200.json
+
+###
+
+GET http://localhost:8080/notes
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+"my first note!"
+
+<> 2018-12-11T021455.200.json
+
+###
+
+GET http://localhost:8080/notes
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+"my first note!"
+
 <> 2018-12-10T055205.200.json
 
 ###

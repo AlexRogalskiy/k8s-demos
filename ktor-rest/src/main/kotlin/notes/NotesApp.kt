@@ -4,13 +4,16 @@ import com.fasterxml.jackson.databind.SerializationFeature
 import io.ktor.application.*
 import io.ktor.features.ContentNegotiation
 import io.ktor.jackson.jackson
-import io.ktor.request.receiveText
+import io.ktor.request.receive
 import io.ktor.response.*
 import io.ktor.routing.*
 import io.ktor.server.engine.*
 import io.ktor.server.netty.*
+import java.util.*
 
-val notes = mutableListOf<String>()
+data class Note(val note: String, val time: String = Date().toString())
+
+val notes = mutableListOf(Note("first note!"))
 
 fun Application.module() {
     install(ContentNegotiation) {
@@ -20,11 +23,11 @@ fun Application.module() {
     }
     routing {
         get("/notes") {
-            call.respond(mapOf("notes" to notes))
+            call.respond(notes)
         }
 
         post("/notes") {
-            notes.add(call.receiveText())
+            notes.add(call.receive())
         }
     }
 }
