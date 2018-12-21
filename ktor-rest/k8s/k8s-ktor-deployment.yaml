@@ -1,0 +1,18 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ktor-rest
+spec:
+  selector:
+    matchLabels:
+      app: ktor-rest
+  template:
+    metadata:
+      labels:
+        app: ktor-rest
+    spec:
+      containers:
+        - name: ktor-rest
+          image: ivanporty/ktor-rest
+          ports:
+            - containerPort: 8080

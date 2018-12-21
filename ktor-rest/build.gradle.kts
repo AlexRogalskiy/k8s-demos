@@ -9,6 +9,7 @@ val ktor_version = "1.0.1"
 plugins {
     application
     kotlin("jvm") version "1.3.10"
+    id("com.google.cloud.tools.jib") version "0.10.1"
 }
 
 repositories {
@@ -33,4 +34,10 @@ dependencies {
     compile("io.ktor:ktor-jackson:$ktor_version")
     compile("ch.qos.logback:logback-classic:1.2.3")
     testCompile(group = "junit", name = "junit", version = "4.12")
+}
+
+jib {
+    container {
+        ports = listOf("8080")
+    }
 }
