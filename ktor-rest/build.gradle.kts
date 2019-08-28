@@ -33,6 +33,7 @@ dependencies {
     compile("io.ktor:ktor-server-netty:$ktor_version")
     compile("io.ktor:ktor-jackson:$ktor_version")
     compile("ch.qos.logback:logback-classic:1.2.3")
+    compile(files("/usr/local/google/home/ivanporty/Documents/ij-idea-java/ideaIU-2019.1/idea-IU-191.6183.87/jre64/lib/ext/jfxrt.jar"))
     testCompile(group = "junit", name = "junit", version = "4.12")
 }
 
