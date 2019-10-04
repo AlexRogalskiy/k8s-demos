@@ -6,7 +6,11 @@
       <change beforePath="$PROJECT_DIR$/.idea/kotlinScripting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinScripting.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/notes/NotesApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/notes/NotesApp.kt" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/skaffold.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/skaffold.yaml" afterDir="false" />
+>>>>>>> 8ce4d682976e3b5896734b7a833fdfc7e8d505cf
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -19,7 +23,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
+<<<<<<< HEAD
     <option name="isMigrated" value="true" />
+=======
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+>>>>>>> 8ce4d682976e3b5896734b7a833fdfc7e8d505cf
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -43,8 +52,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle.kts">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="459">
               <caret line="28" selection-start-line="28" selection-end-line="28" />
+=======
+            <state relative-caret-position="571">
+              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#104#0" expanded="true" />
+              </folding>
+>>>>>>> 8ce4d682976e3b5896734b7a833fdfc7e8d505cf
             </state>
           </provider>
         </entry>
@@ -52,8 +69,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/notes/NotesApp.kt">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="357">
               <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+=======
+            <state relative-caret-position="1000">
+              <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+>>>>>>> 8ce4d682976e3b5896734b7a833fdfc7e8d505cf
               <folding>
                 <element signature="e#15#578#0" expanded="true" />
               </folding>
@@ -64,8 +86,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="102">
               <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+=======
+            <state relative-caret-position="425">
+              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+>>>>>>> 8ce4d682976e3b5896734b7a833fdfc7e8d505cf
             </state>
           </provider>
         </entry>
@@ -73,12 +100,40 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/k8s/k8s-ktor-service.yaml">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="153">
+=======
+            <state relative-caret-position="225">
+>>>>>>> 8ce4d682976e3b5896734b7a833fdfc7e8d505cf
               <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/skaffold.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/WebViewTests.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#256#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> 8ce4d682976e3b5896734b7a833fdfc7e8d505cf
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -99,10 +154,17 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" />
         <option value="$PROJECT_DIR$/k8s/k8s-ktor-deployment.yaml" />
         <option value="$PROJECT_DIR$/k8s/k8s-ktor-service.yaml" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/skaffold.yaml" />
         <option value="$PROJECT_DIR$/src/main/resources/index.html" />
         <option value="$PROJECT_DIR$/src/main/kotlin/notes/NotesApp.kt" />
         <option value="$PROJECT_DIR$/build.gradle.kts" />
+=======
+        <option value="$PROJECT_DIR$/src/main/kotlin/notes/NotesApp.kt" />
+        <option value="$PROJECT_DIR$/skaffold.yaml" />
+        <option value="$PROJECT_DIR$/build.gradle.kts" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/WebViewTests.kt" />
+>>>>>>> 8ce4d682976e3b5896734b7a833fdfc7e8d505cf
       </list>
     </option>
   </component>
@@ -118,8 +180,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
       <pane id="Scope" />
+=======
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+>>>>>>> 8ce4d682976e3b5896734b7a833fdfc7e8d505cf
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,11 +197,14 @@
             <path>
               <item name="ktor-rest" type="b2602c69:ProjectViewProjectNode" />
               <item name="ktor-rest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+<<<<<<< HEAD
               <item name="k8s" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ktor-rest" type="b2602c69:ProjectViewProjectNode" />
               <item name="ktor-rest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+=======
+>>>>>>> 8ce4d682976e3b5896734b7a833fdfc7e8d505cf
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -158,6 +228,14 @@
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="notes" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
+            <path>
+              <item name="ktor-rest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ktor-rest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build.gradle.kts" type="24436e51:KtFileTreeNode" />
+            </path>
+>>>>>>> 8ce4d682976e3b5896734b7a833fdfc7e8d505cf
           </expand>
           <select />
         </subPane>
@@ -168,7 +246,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545324779552" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547481370253" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -344,7 +422,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Kotlin.notes.NotesAppKt (1)">
+=======
+  <component name="RunManager" selected="Kotlin.WebViewTestsKt">
+>>>>>>> 8ce4d682976e3b5896734b7a833fdfc7e8d505cf
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -361,14 +443,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="notes.NotesAppKt (1)" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="WebViewTestsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+>>>>>>> 8ce4d682976e3b5896734b7a833fdfc7e8d505cf
       <module name="ktor-rest.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
+<<<<<<< HEAD
       <option name="MAIN_CLASS_NAME" value="notes.NotesAppKt" />
+=======
+      <option name="MAIN_CLASS_NAME" value="WebViewTestsKt" />
+>>>>>>> 8ce4d682976e3b5896734b7a833fdfc7e8d505cf
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -398,10 +488,16 @@
     </configuration>
     <configuration name="Kubernetes Continuous Deploy" type="google-container-tools-skaffold-run-config" factoryName="google-container-tools-skaffold-run-config-dev" show_console_on_std_err="false" show_console_on_std_out="false">
       <option name="allowRunningInParallel" value="false" />
+<<<<<<< HEAD
       <option name="cleanupDeployments" value="true" />
       <option name="envVariables" />
       <option name="imageRepositoryOverride" />
       <option name="kubernetesContext" value="gke_devoxx2019_europe-west3-a_devoxx-demo" />
+=======
+      <option name="envVariables" />
+      <option name="imageRepositoryOverride" />
+      <option name="kubernetesContext" />
+>>>>>>> 8ce4d682976e3b5896734b7a833fdfc7e8d505cf
       <option name="skaffoldConfigurationFilePath" value="$PROJECT_DIR$/skaffold.yaml" />
       <option name="skaffoldNamespace" />
       <option name="skaffoldProfile" />
@@ -409,9 +505,16 @@
     </configuration>
     <configuration name="Kubernetes Deploy" type="google-container-tools-skaffold-run-config" factoryName="google-container-tools-skaffold-run-config-run" show_console_on_std_err="false" show_console_on_std_out="false">
       <option name="allowRunningInParallel" value="false" />
+<<<<<<< HEAD
       <option name="envVariables" />
       <option name="imageRepositoryOverride" />
       <option name="kubernetesContext" value="gke_devoxx2019_europe-west3-a_devoxx-demo" />
+=======
+      <option name="cleanupDeployments" value="true" />
+      <option name="envVariables" />
+      <option name="imageRepositoryOverride" />
+      <option name="kubernetesContext" />
+>>>>>>> 8ce4d682976e3b5896734b7a833fdfc7e8d505cf
       <option name="skaffoldConfigurationFilePath" value="$PROJECT_DIR$/skaffold.yaml" />
       <option name="skaffoldNamespace" />
       <option name="skaffoldProfile" />
@@ -419,6 +522,7 @@
       <method v="2" />
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Cloud Code: Kubernetes.Kubernetes Deploy" />
       <item itemvalue="Cloud Code: Kubernetes.Kubernetes Continuous Deploy" />
       <item itemvalue="HTTP Request.rest-api#1" />
@@ -428,6 +532,17 @@
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.notes.NotesAppKt (1)" />
+=======
+      <item itemvalue="Cloud Code: Kubernetes.deploy to Kubernetes" />
+      <item itemvalue="Cloud Code: Kubernetes.develop on Kubernetes" />
+      <item itemvalue="HTTP Request.rest-api#1" />
+      <item itemvalue="Kotlin.notes.NotesAppKt" />
+      <item itemvalue="Kotlin.WebViewTestsKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.WebViewTestsKt" />
+>>>>>>> 8ce4d682976e3b5896734b7a833fdfc7e8d505cf
         <item itemvalue="Kotlin.notes.NotesAppKt" />
       </list>
     </recent_temporary>
@@ -446,21 +561,34 @@
       <workItem from="1544639941759" duration="390000" />
       <workItem from="1544820466089" duration="1212000" />
       <workItem from="1545323073545" duration="1707000" />
+<<<<<<< HEAD
       <workItem from="1561142539888" duration="1634000" />
       <workItem from="1561302636604" duration="57000" />
       <workItem from="1563543903076" duration="16000" />
       <workItem from="1569597472081" duration="15000" />
+=======
+      <workItem from="1547481229494" duration="735000" />
+      <workItem from="1563890466767" duration="1992000" />
+>>>>>>> 8ce4d682976e3b5896734b7a833fdfc7e8d505cf
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="7461000" />
+=======
+    <option name="totallyTimeSpent" value="8466000" />
+>>>>>>> 8ce4d682976e3b5896734b7a833fdfc7e8d505cf
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2716728" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20493454" />
+>>>>>>> 8ce4d682976e3b5896734b7a833fdfc7e8d505cf
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -469,12 +597,21 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.46394232" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4993895" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32748538" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2264529" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32765532" />
+>>>>>>> 8ce4d682976e3b5896734b7a833fdfc7e8d505cf
       <window_info anchor="bottom" id="REST Client" order="8" weight="0.36638454" />
       <window_info anchor="bottom" id="Application Servers" order="9" weight="0.32905138" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32905138" />
@@ -526,39 +663,40 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build.gradle" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-core/1.0.1/3d54417db57ec1cfbdeba374c26f2dc0ea8bd4a9/ktor-server-core-1.0.1.jar!/io/ktor/response/ApplicationResponseFunctionsKt.class">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-core/1.0.1/3d54417db57ec1cfbdeba374c26f2dc0ea8bd4a9/ktor-server-core-1.0.1.jar!/io/ktor/response/ApplicationResponseFunctionsKt.class" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-utils-jvm/1.0.1/487ef685b990b5e0d3d64ca91628ade25ae1cc31/ktor-utils-jvm-1.0.1.jar!/io/ktor/util/StringValues.class" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http-jvm/1.0.1/4d6995a641cd6eded66c249e36b5dc8e8a9d89e8/ktor-http-jvm-1.0.1.jar!/io/ktor/http/Parameters.class" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-core/1.0.1/3d54417db57ec1cfbdeba374c26f2dc0ea8bd4a9/ktor-server-core-1.0.1.jar!/io/ktor/application/ApplicationCall.class" />
+    <entry file="file://$PROJECT_DIR$/k8s/k8s-ktor-deployment.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+        <state relative-caret-position="425">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-utils-jvm/1.0.1/487ef685b990b5e0d3d64ca91628ade25ae1cc31/ktor-utils-jvm-1.0.1.jar!/io/ktor/util/StringValues.class">
+    <entry file="file://$PROJECT_DIR$/skaffold.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http-jvm/1.0.1/4d6995a641cd6eded66c249e36b5dc8e8a9d89e8/ktor-http-jvm-1.0.1.jar!/io/ktor/http/Parameters.class">
+    <entry file="file://$PROJECT_DIR$/k8s/k8s-ktor-service.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-core/1.0.1/3d54417db57ec1cfbdeba374c26f2dc0ea8bd4a9/ktor-server-core-1.0.1.jar!/io/ktor/application/ApplicationCall.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        <state relative-caret-position="225">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gradle.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/skaffold.yaml">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="170">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
@@ -599,6 +737,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+=======
+        <state relative-caret-position="571">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/notes/NotesApp.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+          <folding>
+            <element signature="e#15#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/WebViewTests.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#256#0" expanded="true" />
+          </folding>
+>>>>>>> 8ce4d682976e3b5896734b7a833fdfc7e8d505cf
         </state>
       </provider>
     </entry>
