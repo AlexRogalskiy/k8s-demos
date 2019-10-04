@@ -1,15 +1,14 @@
-import org.jetbrains.kotlin.gradle.dsl.Coroutines
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 group = "Example"
-version = "1.0-SNAPSHOT"
+version = "0.1.0-SNAPSHOT"
 
 val ktor_version = "1.0.1"
 
 plugins {
     application
     kotlin("jvm") version "1.3.10"
-    id("com.google.cloud.tools.jib") version "0.10.1"
+    id("com.google.cloud.tools.jib") version "1.2.0"
 }
 
 repositories {
